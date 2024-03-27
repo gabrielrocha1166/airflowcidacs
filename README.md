@@ -1,5 +1,7 @@
 README: Engenharia de Dados - Desafio Geolinkage
 
+# TODOS OS RESULTADOS SÃO REFERENTES A UMA BASE DE DADOS MENOR PARA PODER SUBIR O PROJETO PARA O GITHUB, MAS ASSIM QUE O PROJETO FOR EXECUTADO NA SUA MÁQUINA OS RESULTADO GERADOS SERÃO OS MESMOS PEDIDOS NO DESAFIO.
+
 O objetivo do desafio é criar um pipeline de ETL (Extração, Transformação e Carregamento) para manipular dados de endereços, gerar ruídos controlados e calcular a distância entre registros de duas bases de dados. Todas essas tarefas são realizadas de forma autoática pelo Airflow de acordo a periodicidade indicada.
 
 Componentes do Pipeline:
