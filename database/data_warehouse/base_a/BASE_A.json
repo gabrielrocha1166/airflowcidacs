@@ -1,0 +1,82 @@
+[
+    {
+        "TIPO": "RUA",
+        "TITULO": "DOUTOR",
+        "LOGRADOURO": "RUA DOUTOR CLEMENTE MARIANI",
+        "NUMERO": "0",
+        "COMPLEMENTO": "HABITACAO 1",
+        "SETOR CENSITÁRIO": "506"
+    },
+    {
+        "TIPO": "LADEIRA",
+        "TITULO": "",
+        "LOGRADOURO": "LADEIRA DAS UBARANAS",
+        "NUMERO": "81",
+        "COMPLEMENTO": "ANDAR 02",
+        "SETOR CENSITÁRIO": "506"
+    },
+    {
+        "TIPO": "RUA",
+        "TITULO": "",
+        "LOGRADOURO": "RUA BELMONTE",
+        "NUMERO": "0",
+        "COMPLEMENTO": "ANDAR 02 APARTAMENTO 101",
+        "SETOR CENSITÁRIO": "506"
+    },
+    {
+        "TIPO": "RUA",
+        "TITULO": "",
+        "LOGRADOURO": "RUA DAS VIOLETAS",
+        "NUMERO": "66",
+        "COMPLEMENTO": "APARTAMENTO 702",
+        "SETOR CENSITÁRIO": "506"
+    },
+    {
+        "TIPO": "RUA",
+        "TITULO": "",
+        "LOGRADOURO": "RUA JOAO CARLOS SACRAMENTO",
+        "NUMERO": "372",
+        "COMPLEMENTO": "",
+        "SETOR CENSITÁRIO": "506"
+    },
+    {
+        "TIPO": "RUA",
+        "TITULO": "",
+        "LOGRADOURO": "RUA RUBEM BERTA",
+        "NUMERO": "345",
+        "COMPLEMENTO": "APARTAMENTO 301",
+        "SETOR CENSITÁRIO": "506"
+    },
+    {
+        "TIPO": "RUA",
+        "TITULO": "PROFESSOR",
+        "LOGRADOURO": "RUA PROFESSOR FABIO DANTAS",
+        "NUMERO": "73",
+        "COMPLEMENTO": "SOBRADO",
+        "SETOR CENSITÁRIO": "506"
+    },
+    {
+        "TIPO": "RUA",
+        "TITULO": "",
+        "LOGRADOURO": "RUA PIAUI",
+        "NUMERO": "40",
+        "COMPLEMENTO": "",
+        "SETOR CENSITÁRIO": "506"
+    },
+    {
+        "TIPO": "RUA",
+        "TITULO": "CORONEL",
+        "LOGRADOURO": "RUA CORONEL DURVAL MATTOS",
+        "NUMERO": "1130",
+        "COMPLEMENTO": "APARTAMENTO 404",
+        "SETOR CENSITÁRIO": "506"
+    },
+    {
+        "TIPO": "AVENIDA",
+        "TITULO": "",
+        "LOGRADOURO": "AVENIDA OCTAVIO MANGABEIRA",
+        "NUMERO": "150",
+        "COMPLEMENTO": "CASA 1O2",
+        "SETOR CENSITÁRIO": "506"
+    }
+]
